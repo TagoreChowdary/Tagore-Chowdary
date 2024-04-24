@@ -1,0 +1,5 @@
+withdraw:$2000.0
+deposit:$1000.0
+deposit:$50000.0
+withdraw:$3000.0
+deposit:$500.0
